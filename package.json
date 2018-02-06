@@ -1,0 +1,26 @@
+{
+  "name": "learn-polymer-starter-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kasey Hinton",
+  "license": "MIT",
+  "flat": true,
+  "dependencies": {
+    "@polymer/app-layout": "next",
+    "@polymer/app-route": "next",
+    "@polymer/iron-icons": "next",
+    "@polymer/iron-image": "next",
+    "@polymer/iron-list": "next",
+    "@polymer/iron-pages": "next",
+    "@polymer/paper-button": "next",
+    "@polymer/paper-card": "next",
+    "@polymer/paper-fab": "next",
+    "@polymer/paper-icon-button": "next",
+    "@polymer/paper-input": "^3.0.0-pre.7",
+    "@polymer/paper-item": "next",
+    "@polymer/paper-progress": "next",
+    "@polymer/paper-styles": "next",
+    "@polymer/polymer": "next",
+    "@webcomponents/webcomponentsjs": "1.1.0"
+  }
+}
